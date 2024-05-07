@@ -1,0 +1,1 @@
+document.writeln("<center><script language=\"JavaScript\" type=\"text\/JavaScript\" src=\"http:\/\/code.entunion.com\/ad_bcast\/html_show.js?a=2555&b=1003&p=2001&nt=&w=960&h=110&m=151110&refid=&css=\"><\/script><\/center>")

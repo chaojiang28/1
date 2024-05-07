@@ -1,0 +1,1 @@
+document.writeln("<iframe scrolling=\"no\" width=\"760\" height=\"90\" src=\"http:\/\/www.2bj.cn\/click.html?adid=113&uid=88ag\" frameborder=\"0\" marginheight=0 marginwidth=0 ><\/iframe>")

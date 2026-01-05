@@ -10,8 +10,21 @@
        <TD class=ArticleContent style="FONT-SIZE: 30px; LINE-HEIGHT: 150%" align=left>
           <CENTER> </CENTER>
           <STYLE type=text/css><!--body {background-image:url(img/01.jpg);
-             background-repeat:repeat;
-             background-attachment:fixed;background-position:50% 50%}
+             /* 2. 保持图片比例，覆盖整个可视区域（关键） */
+            background-size: cover;
+            
+            /* 3. 背景图固定，不随页面滚动移动 */
+            background-attachment: fixed;
+            
+            /* 4. 背景图居中显示 */
+            background-position: center center;
+            
+            /* 5. 避免背景图重复 */
+            background-repeat: no-repeat;
+            
+            /* 可选：设置最小高度，保证页面占满屏幕 */
+            min-height: 100vh;
+            margin: 0; /* 清除body默认边距 */
           </STYLE>
        </TD>
     </TR>
